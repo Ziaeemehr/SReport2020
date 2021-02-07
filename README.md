@@ -1,4 +1,4 @@
-# Emergence of global synchronization in directed excitatory networks of type I neurons
+# [Emergence of global synchronization in directed excitatory networks of type I neurons](https://www.nature.com/articles/s41598-020-60205-0)
 
 Abolfazl Ziaeemehr1, Mina Zarei1,2* & Aida Sheshbolouki3
 
